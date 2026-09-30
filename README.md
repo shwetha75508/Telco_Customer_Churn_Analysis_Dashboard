@@ -58,19 +58,19 @@ Business Insights & Findings
 ```
 ## 📈 Dashboard Insights
 
-### Customer Demographics
+### 1. Customer Demographics
 
 The dashboard analyzes customer demographics and tenure to understand how churn varies across different customer segments and stages of the customer lifecycle.
 
-### Service Subscription
+### 2.  Service Subscription
 
 Service usage is analyzed to identify differences in churn across internet services, phone services, and additional services such as Online Security, Online Backup, Device Protection, Tech Support, Streaming TV, and Streaming Movies.
 
-### Contract & Billing
+### 3. Contract & Billing
 
 Contract types, payment methods, and billing metrics are compared to understand their relationship with customer churn and spending behavior.
 
-### Churn & Revenue Impact
+### 4. Churn & Revenue Impact
 
 The dashboard identifies customer segments associated with higher churn and compares retained and lost customer revenue to highlight the financial impact of customer attrition.
 
