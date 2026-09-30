@@ -41,26 +41,6 @@ The company is experiencing customer churn but needs to understand **why custome
 
 ---
 
-## 🔄 Project Workflow
-
-```text
-Dataset
-   ↓
-Data Cleaning & Transformation
-   ↓
-Data Modeling
-   ↓
-DAX Measures & Calculated Columns
-   ↓
-Exploratory Data Analysis
-   ↓
-Interactive Power BI Dashboard
-   ↓
-Business Insights & Findings
-```
-
----
-
 ## 📈 Dashboard Insights
 
 ### 1. Customer Demographics
