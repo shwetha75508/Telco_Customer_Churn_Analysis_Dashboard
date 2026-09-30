@@ -29,15 +29,17 @@ The company is experiencing customer churn but needs to understand **why custome
 
 ## 🛠️ Tools & Technologies
 
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* Data Cleaning & Transformation
-* Interactive Visualizations
-* KPI Development
-* Customer Segmentation
-* Business Intelligence
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Cleaning & Transformation
+- Interactive Visualizations
+- KPI Development
+- Customer Segmentation
+- Business Intelligence
+
+---
 
 ## 🔄 Project Workflow
 
@@ -56,6 +58,9 @@ Interactive Power BI Dashboard
    ↓
 Business Insights & Findings
 ```
+
+---
+
 ## 📈 Dashboard Insights
 
 ### 1. Customer Demographics
@@ -74,6 +79,8 @@ Contract types, payment methods, and billing metrics are compared to understand 
 
 The dashboard identifies customer segments associated with higher churn and compares retained and lost customer revenue to highlight the financial impact of customer attrition.
 
+---
+
 ## 📌 Key Findings
 
 - Month-to-month customers generally show higher churn than customers on longer-term contracts.
@@ -85,3 +92,26 @@ The dashboard identifies customer segments associated with higher churn and comp
 - Combining contract, tenure, internet service, and billing factors provides a more detailed view of customer segments associated with churn.
 
 > **Note:** Exact percentages and values may vary depending on dashboard filters and the dataset version used.
+
+---
+
+## 🔍 Key Business Questions
+1. What is the overall customer churn rate?
+
+2. Which customer demographics are associated with churn?
+
+3. How does churn vary across tenure groups?
+
+4. Which services are commonly used by churned customers?
+
+5. Does the number of subscribed services relate to churn?
+
+6. How does churn differ by contract type?
+
+7. Which payment methods have different churn patterns?
+
+8. How do monthly and total charges vary across customer segments?
+
+9. Is paperless billing associated with different churn rates?
+
+10.What is the revenue associated with retained versus churned customers? 
