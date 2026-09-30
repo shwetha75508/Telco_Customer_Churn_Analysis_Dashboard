@@ -94,4 +94,11 @@ The dashboard identifies customer segments associated with higher churn and comp
 
 9. Is paperless billing associated with different churn rates?
 
-10. What is the revenue associated with retained versus churned customers? 
+10. What is the revenue associated with retained versus churned customers?
+
+---
+
+## 👩‍💻 Developer
+Shweta Rani
+
+- LinkedIn: 
