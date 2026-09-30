@@ -15,75 +15,73 @@ The company is experiencing customer churn but needs to understand **why custome
 ---
 
 ## 🎯 Objective
-Analyze overall customer churn and churn rate.
-Understand churn patterns across customer demographics and tenure.
-Analyze service subscriptions and their relationship with churn.
-Compare churn across contract types and payment methods.
-Examine monthly and total billing behavior.
-Identify customer segments with higher churn rates.
-Understand the potential revenue impact of customer churn.
-Provide data-driven insights that can support customer retention strategies.
+
+- Analyze customer churn trends and patterns.
+- Identify factors associated with customer churn.
+- Understand customer demographics and tenure behavior.
+- Analyze service subscription patterns.
+- Compare churn across contract types and payment methods.
+- Examine monthly and total billing behavior.
+- Identify customer segments with higher churn rates.
+- Understand the revenue impact of customer churn.
 
 ---
 
-##  🛠️ Tools & Technologies
-Power BI – Dashboard development and data visualization
-Power Query – Data cleaning and transformation
-DAX – Measures and calculated columns
-Microsoft Excel / CSV – Dataset and data preparation
-Data Analysis – Customer segmentation and churn analysis
+## 🛠️ Tools & Technologies
 
----
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Data Cleaning & Transformation
+* Interactive Visualizations
+* KPI Development
+* Customer Segmentation
+* Business Intelligence
 
+## 🔄 Project Workflow
 
-## 🔄Project Workflow
-Raw Dataset
-     ↓
+```text
+Dataset
+   ↓
 Data Cleaning & Transformation
-     ↓
+   ↓
 Data Modeling
-     ↓
-Calculated Columns & DAX Measures
-     ↓
-Exploratory Analysis
-     ↓
+   ↓
+DAX Measures & Calculated Columns
+   ↓
+Exploratory Data Analysis
+   ↓
 Interactive Power BI Dashboard
-     ↓
+   ↓
 Business Insights & Findings
+```
+## 📈 Dashboard Insights
 
----
+### Customer Demographics
 
-## 🔑 Key Steps
-1. Imported Telco Churn dataset.
-2. Cleaned and transformed data in Power Query.
-3. Prepared fields & data types..
-4. Created calculated columns such as Tenure Group and Senior Citizen.
-5. Created DAX measures including:
-   - Total Customers
-   - Churned Customers
-   - Churn Rate
-   - Average Monthly Charges
-   - Average Total Charges
-   - Total Revenue
-   - Lost Customer Revenue
-6. Built an interactive dashboard across four analytical areas:
-   - Customer Demographics
-   - Service Subscription
-   - Contract & Billing
-   - Churn Prediction & Key Drivers
-7. Added slicers & interactive filters for deeper customer segmentation.
+The dashboard analyzes customer demographics and tenure to understand how churn varies across different customer segments and stages of the customer lifecycle.
 
----
+### Service Subscription
 
-📈 Dashboard Insights 
-1. 👥 Customer Demographics  
-Distribution by gender, senior citizen status, and tenure — showing how churn varies across lifecycle stages.
+Service usage is analyzed to identify differences in churn across internet services, phone services, and additional services such as Online Security, Online Backup, Device Protection, Tech Support, Streaming TV, and Streaming Movies.
 
-2. 📡 Service Subscription  
-Analysis of phone, internet, and add‑on services (security, backup, streaming, etc.) to reveal churn differences by service usage.
+### Contract & Billing
 
-3. 💳 Contract & Billing  
-Contract types and payment methods linked to churn, with billing metrics (monthly and total charges) highlighting spending behavior.
+Contract types, payment methods, and billing metrics are compared to understand their relationship with customer churn and spending behavior.
 
-4. 💸 Churn Drivers & Revenue Impact  
-Identifies high‑churn segments and compares retained vs. lost revenue, emphasizing the financial impact of churn.
+### Churn & Revenue Impact
+
+The dashboard identifies customer segments associated with higher churn and compares retained and lost customer revenue to highlight the financial impact of customer attrition.
+
+## 📌 Key Findings
+
+- Month-to-month customers generally show higher churn than customers on longer-term contracts.
+- Churn behavior varies across different customer tenure groups.
+- Internet service type shows differences in customer churn patterns.
+- Additional service subscriptions provide useful information about customer engagement and churn.
+- Payment methods and billing behavior show differences across customer segments.
+- Customer churn has a direct impact on potential revenue retention.
+- Combining contract, tenure, internet service, and billing factors provides a more detailed view of customer segments associated with churn.
+
+> **Note:** Exact percentages and values may vary depending on dashboard filters and the dataset version used.
