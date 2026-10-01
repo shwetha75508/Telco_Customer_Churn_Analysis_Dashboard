@@ -101,4 +101,4 @@ The dashboard identifies customer segments associated with higher churn and comp
 ## 👩‍💻 Developer
 Shweta Rani
 
-- LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7511303772912975875/
+- LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7511337223313592320/
